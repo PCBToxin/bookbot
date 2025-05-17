@@ -22,7 +22,7 @@ def character_count(in_contents):
 
 
 def sorted_dictionary_list(in_contents):
-    #Reverse sort dictionary by values
+    #Here we reverse sort a dictionary by values and return
     sorted_dict_list = {}
     
     #Sort By Key & Sort By Value
